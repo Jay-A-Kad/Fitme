@@ -1,6 +1,7 @@
 # FitMe
 This project is a Weight tracker app that takes current weight and stores inside firebase realtime Db with
-a unique hash id with weight and current timestamp and day as it's child
+a unique hash id with weight and current timestamp and day as it's child and the greetings change according to the
+current time
 
 ![Home](https://github.com/Jay-A-Kad/Fitme/assets/80452034/99cdec08-4d19-4a42-9d54-a17de98412bd)
 
